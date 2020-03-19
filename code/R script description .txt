@@ -1,0 +1,49 @@
+
+This is a description document for the functionality of all R script used for producing
+the results for the master project.
+
+Author: Xierzhati Aniwa (Shirzart Enwer)
+contact email: aniwax@student.ethz.ch
+
+
+#####Data format description for dataset and model
+1. WorM3 
+Emission Input
+1) Hg0andHgIImat 180*360
+2) HgP.mat: 180*360
+Output:
+Air_test:  288
+Air_TGM_StSt: 12*24, 
+SO_Hg0_StSt: 180*360
+SO_THgO_StSt: 180*360
+TGM_StSt: 180*360
+Water_Hg0_test: 288 , which equals to 12*24
+Water_THg_test: 288
+
+2.Dataset description 
+1)gridded_Hg_emissions_2010v1: AMAP 2010 total emission 
+2)gridded_Hg_emissions_2010v1_sector_subsets_2jan2014: emission separated into three sectors:
+	-stationary combustion, including following sectors: : SC-PP-coal; SC-PP-oil; SC-PP-gas; SC-DRcoal; SC-DR-oil; SC-DR-gas
+	-IntentioanlUse_ProductWate_2jan2014: ASGM; CSP; CREM; WI; WASOTH
+	-UnintentionalIndustrialUse_2jan2014: SC-IND-oil; SC-IND-gas; CEM; PISP; OR; NFMP-Cu; NFMP-Pb; NFMP-Zn; NFMP-Al; NFMP-Hg; NFMP-Au
+
+######Main R Script description#####
+#The more detailed description is embedded in every coding script
+
+1.WorM3_coordinate_cell_conversion_2018_04_11.R: transfer the dataset indexed with coordinates into WorM3 input data format (matlab) and dimension
+2.mercury_model_main_2018_03_29: 
+	-Calculate the mercury emission from coal power plants, using CPPE model and transfer into WorM3 input
+	-Generate the cumulative distribution of Power Plants emission versus power plants ranked by net electricity generation
+	-Generate the sorted coal power plants emission and the index of top 20% (according to sorted criteria: net electricity generation or efficiency(emission at 
+		at every power plants divided by net electricity generation))power plants .
+	-Generate the index of Indian power plants
+
+3.mercury_emission_raster: ability to transfer the AMAP dataset and own_pp_coal dataset into raster format with 180*360 dimension.
+4.plot_global_concentration: plot output of WorM3 model into global mercury concentration distribution map
+5.Compare the result from different simulations: read in the result WorM3 of different scenarios and plot them in to concentration map
+
+###Other R script
+L_NS2_mercury_model_main: calculating modified emissions for global AC equipment scenarios
+L_NS1_mercury_model_main: calculating modified emissions for global wet scrubber equipment scenarios
+L_NS2_india_mercury_model_main: calculating modified emissions for India AC equipment scenarios
+L_NS1_india_mercury_model_main: calculating modified emissions for India wet scrubber equipment scenarios
