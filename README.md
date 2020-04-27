@@ -22,19 +22,19 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 ### Graphic comparison of mercury emission scenario
 
-![2050 Emission from literature](./image_for_personal_post/AMAP_2050_dataset.JPG)
+![2050 Emission from literature](./image_for_personal_post/AMAP_2050_dataset.JPG =864 × 585)
 
-![2060 Emission from literature](./image_for_personal_post/AMAP_2060_emission.png)
+![2060 Emission from literature](./image_for_personal_post/AMAP_2060_emission.png =864 × 585)
 
 ### Distribution of global power plants
 
-![Powerplant distribution woSO2vsALL](./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png)
+![Powerplant distribution woSO2vsALL](./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png =864 × 585)
 
 ### Global mercury concentration change after upgrading
 
-![Percentage mercury concentration change 1st upgrade](./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png)
+![Percentage mercury concentration change 1st upgrade](./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png =864 × 585)
 
-![Percentage mercury concentration change 2nd upgrade](./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg)
+![Percentage mercury concentration change 2nd upgrade](./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg=864 × 585)
 
 ### Global co2 emission change represented by heat map
 
