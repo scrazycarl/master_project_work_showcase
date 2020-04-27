@@ -26,6 +26,9 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 ![2050 Emission from literature](./image_for_personal_post/AMAP_2060_emission.png)
 
+### Distribution of global power plants
+
+![2050 Emission from literature](./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png)
 
 ### Global mercury concentration change after upgrading
 
@@ -34,6 +37,7 @@ Before starting the work, I used an existing model, developed by the lab that I 
 ![2050 Emission from literature](./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg)
 
 ### Global co2 emission change represented by heat map
+
 
 
 ### Global co2 emission change represented by bubble plot
