@@ -31,10 +31,7 @@ Before starting the work, I used an existing model, developed by the lab that I 
 <img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" />
 ### Global mercury concentration change after upgrading
 
-![Percentage mercury concentration change 1st upgrade](./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png)
-
 <img src="./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png" width="856" />
-![Percentage mercury concentration change 2nd upgrade](./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg)
 
 <img src="2ndupgrade_Mercury_concentration_change.jpg" width="856" />
 ### Global co2 emission change represented by heat map
