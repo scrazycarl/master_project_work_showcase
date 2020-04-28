@@ -29,11 +29,13 @@ Before starting the work, I used an existing model, developed by the lab that I 
 ### Distribution of global power plants
 
 <img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" />
+
 ### Global mercury concentration change after upgrading
 
 <img src="./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png" width="856" />
 
-<img src="2ndupgrade_Mercury_concentration_change.jpg" width="856" />
+<img src="./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg" width="856" />
+
 ### Global co2 emission change represented by heat map
 
 
