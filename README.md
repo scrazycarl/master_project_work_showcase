@@ -29,7 +29,7 @@ Before starting the work, I used an existing model, developed by the lab that I 
 ### Distribution of global power plants
 
 ![Powerplant distribution woSO2vsALL](./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png)
-
+<img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="200" />
 ### Global mercury concentration change after upgrading
 
 ![Percentage mercury concentration change 1st upgrade](./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png)
