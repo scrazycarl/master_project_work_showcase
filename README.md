@@ -26,18 +26,23 @@ Before starting the work, I used an existing model, developed by the lab that I 
 <img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
 
 <img src="./image_for_personal_post/AMAP_2060_emission.png" width="856" />
+
 ### Distribution of global power plants
 
 <img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" />
 
 ### Global mercury concentration change after upgrading
 
+To reduce the mercury emission and resulting concentration in the air, two different methods are purposed to apply technology upgrade to a selection of power plants. The following graph display the results of this technology upgrade.
+
+Both graphfs display the percentage decrease of mercury concentration in the air. 
+
+The effect of using A technology
 <img src="./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png" width="856" />
 
+
+The effect of using B technology
 <img src="./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg" width="856" />
 
-### Global co2 emission change represented by heat map
 
 
-
-### Global co2 emission change represented by bubble plot
