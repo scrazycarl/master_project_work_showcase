@@ -18,13 +18,6 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 ### Graphic comparison of mercury emission scenario
 
-<<<<<<< HEAD
-![2050 Emission from literature](./image_for_personal_post/AMAP_2050_dataset.JPG)
-
-
-=======
->>>>>>> 55e2e296aa3247dc15f7557d6eb27c0f48a89037
-
 <img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
 
 This graphs shows what would mercury concentration in the air be if the emission we have is like in year 2000.
@@ -46,11 +39,8 @@ Both graphfs display the percentage decrease of mercury concentration in the air
 The effect of using A technology
 <img src="./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png" width="856" />
 
-<<<<<<< HEAD
-=======
 The effect of using B technology
 <img src="./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg" width="856" />
 
 
 
->>>>>>> 55e2e296aa3247dc15f7557d6eb27c0f48a89037
