@@ -18,21 +18,39 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 ### Graphic comparison of mercury emission scenario
 
+<<<<<<< HEAD
 ![2050 Emission from literature](./image_for_personal_post/AMAP_2050_dataset.JPG)
+
+
+=======
+>>>>>>> 55e2e296aa3247dc15f7557d6eb27c0f48a89037
+
+<img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
+
 This graphs shows what would mercury concentration in the air be if the emission we have is like in year 2000.
 
-
-![2060 Emission from literature](./image_for_personal_post/AMAP_2060_emission.png)
+<img src="./image_for_personal_post/AMAP_2060_emission.png" width="856" />
 
 This graph shows, the scenario where some technologies are adapted to reduce the emission in 2010 and what would the mercury concentration in the air be in 2060.
 
 ### Distribution of global power plants
 
-![Powerplant distribution woSO2vsALL](./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png)
+<img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" />
 
 ### Global mercury concentration change after upgrading
 
-![Percentage mercury concentration change 1st upgrade](./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png)
+To reduce the mercury emission and resulting concentration in the air, two different methods are purposed to apply technology upgrade to a selection of power plants. The following graph display the results of this technology upgrade.
 
-![Percentage mercury concentration change 2nd upgrade](./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg)
+Both graphfs display the percentage decrease of mercury concentration in the air. 
 
+The effect of using A technology
+<img src="./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png" width="856" />
+
+<<<<<<< HEAD
+=======
+The effect of using B technology
+<img src="./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg" width="856" />
+
+
+
+>>>>>>> 55e2e296aa3247dc15f7557d6eb27c0f48a89037
