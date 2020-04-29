@@ -14,17 +14,17 @@ There has been some studies investigating in this question, but it's still rathe
 
 Before starting the work, I used an existing model, developed by the lab that I worked for, to calculate global mercury emission. Another model which is co-developed in the lab for calculating gaseous mercury concentration distribution is used to calculate the global mercury concentration distribution. 
 
-
-
-## Purpose of the study
-
 ## Result of the study 
 
 ### Graphic comparison of mercury emission scenario
 
 ![2050 Emission from literature](./image_for_personal_post/AMAP_2050_dataset.JPG)
+This graphs shows what would mercury concentration in the air be if the emission we have is like in year 2000.
+
 
 ![2060 Emission from literature](./image_for_personal_post/AMAP_2060_emission.png)
+
+This graph shows, the scenario where some technologies are adapted to reduce the emission in 2010 and what would the mercury concentration in the air be in 2060.
 
 ### Distribution of global power plants
 
@@ -36,8 +36,3 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 ![Percentage mercury concentration change 2nd upgrade](./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg)
 
-### Global co2 emission change represented by heat map
-
-
-
-### Global co2 emission change represented by bubble plot
