@@ -17,12 +17,12 @@ Before starting the work, I used an existing model, developed by the lab that I 
 
 ### Goal
 1. Model the mercury emission scenario.
- 1. An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.
- 2. *Comparison by visualisation*: I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.
+    1. An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.
+    2. **Comparison by visualisation** : I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.
 2. Propose mitigation strategy to reduce mercury pollution:
- 1. Propose strategy on a global scale to reduce global mercury emission and concentraiton.
- 2. *Compare the result by visualisation*
-3. Study the effect of mitigation strategy on a local scale
+    1. Propose strategy on a global scale to reduce global mercury emission and concentraiton.
+    2. **Compare the result by visualisation**
+    3. **Study the effect of mitigation strategy on a local scale**
 ## Result of the study 
 
 ### Graphic comparison of mercury emission scenario
