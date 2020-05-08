@@ -1,6 +1,6 @@
 # Master_project_work_showcase
 
- This repo is a small show case of my master project work using R and MATLAB. The most exciting part of this project that I want to discuss is data visualization technique I used. In this post, I will first introduce the background of this study, and then mainly discuss the results of my modelling and calculation work.
+ This repo is a small show case of my master project work @ETH Zurich, using R and MATLAB. The most exciting part of this project that I want to discuss is data visualization technique I used. In this post, I will first introduce the background of this study, the aim of the study, and then mainly discuss the results of my modelling and calculation work.
 
 ## Background information
 
@@ -14,6 +14,15 @@ There has been some studies investigating in this question, but it's still rathe
 
 Before starting the work, I used an existing model, developed by the lab that I worked for, to calculate global mercury emission. Another model which is co-developed in the lab for calculating gaseous mercury concentration distribution is used to calculate the global mercury concentration distribution. 
 
+
+### Goal
+1. Model the mercury emission scenario.
+ 1. An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.
+ 2. *Comparison by visualisation*: I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.
+2. Propose mitigation strategy to reduce mercury pollution:
+ 1. Propose strategy on a global scale to reduce global mercury emission and concentraiton.
+ 2. *Compare the result by visualisation*
+3. Study the effect of mitigation strategy on a local scale
 ## Result of the study 
 
 ### Graphic comparison of mercury emission scenario
