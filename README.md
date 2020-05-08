@@ -41,6 +41,9 @@ Plot from me:
 The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare 
 how good is our computation method, compared to the reference.
 
+From the general color representation, it could be seen that my visualisation was very close to the original one.
+Keep in mind that the computation method is also different. So it will result in actual different value in some cells.
+
 ### 2.1  Global change of mercury concentration after mitigation
 
 <img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
@@ -51,7 +54,7 @@ This graphs shows what would mercury concentration in the air be if the emission
 
 This graph shows, the scenario where some technologies are adapted to reduce the emission in 2010 and what would the mercury concentration in the air be in 2060.
 
-### Distribution of global power plants
+#### Distribution of global power plants
 
 <img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" />
 
