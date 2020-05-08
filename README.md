@@ -58,7 +58,7 @@ This graph shows, the scenario where some technologies are adapted to reduce the
 
 <img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" />
 
-### Global mercury concentration change after upgrading
+### 2.2 Global mercury concentration change after upgrading
 
 To reduce the mercury emission and resulting concentration in the air, two different methods are purposed to apply technology upgrade to a selection of power plants. The following graph display the results of this technology upgrade.
 
@@ -70,5 +70,5 @@ The effect of using A technology
 The effect of using B technology
 <img src="./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg" width="856" />
 
-
+### 3. Discussion of visualisation method
 
