@@ -22,8 +22,13 @@ Before starting the work, I used an existing model, developed by the lab that I 
 2. Propose mitigation strategy to reduce mercury pollution:
     1. Propose strategy on a global scale to reduce global mercury emission and concentraiton.
     2. **Compare the result by visualisation**
-    3. **Study the effect of mitigation strategy on a local scale**
+3. **Study the effect of mitigation strategy on a local scale**
+    
 ## Result of the study 
+
+1. Compare the produced visualisation with reference.
+2. Present the global and local change with the same visualisation scale.
+3. Discuss the pro and cons of visual comparison
 
 ### Graphic comparison of mercury emission scenario
 
