@@ -36,7 +36,7 @@ Plot from reference:
 <img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
 
 Plot from me:
-<img src="./image_for_personal_post/AirTGM_adapted_2010.PNG" width="856" />
+<img src="./image_for_personal_post/AirTGM_adapted_2010.png" width="856" />
 
 The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare 
 how good is our computation method, compared to the reference.
