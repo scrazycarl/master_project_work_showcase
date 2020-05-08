@@ -30,7 +30,18 @@ Before starting the work, I used an existing model, developed by the lab that I 
 2. Present the global and local change with the same visualisation scale.
 3. Discuss the pro and cons of visual comparison
 
-### Graphic comparison of mercury emission scenario
+### 1. Compare the reproduced visualization of data and graph
+
+Plot from reference: 
+<img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
+
+Plot from me:
+<img src="./image_for_personal_post/AirTGM_adapted_2010.PNG" width="856" />
+
+The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare 
+how good is our computation method, compared to the reference.
+
+### 2.1  Global change of mercury concentration after mitigation
 
 <img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" />
 
