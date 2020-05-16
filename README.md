@@ -72,3 +72,12 @@ The effect of using B technology
 
 ### 3. Discussion of visualisation method
 
+In this project, I mainly implemented the visualization scheme presented above. The aim is to compare the changes directly with the "same" color scale and unit in each graph. Since the original color scale was not clearly presented in the reference (see the first graph), I had to emulate the color scale as close as possible using R package. The advantage of using the same color scale is :
+1. Two graphs can be compared together directly. The numerical change is linearly mapped to color change.
+2. The consistency through out the project makes it easier to understand the changes in each scenario.
+
+The disadvantages are:
+1. The color scale used here is not necesarily color blind friendly. 
+2. Although the numerical changes are mapped to color changes, sometimes its not strong enough to produce or spot a color change.
+
+What's your opinion? 
